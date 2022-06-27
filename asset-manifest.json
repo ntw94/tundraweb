@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tundraweb/static/css/main.7f4d40ce.css",
+    "main.js": "/tundraweb/static/js/main.c3ad32ca.js",
+    "static/js/787.a110ec77.chunk.js": "/tundraweb/static/js/787.a110ec77.chunk.js",
+    "static/media/MainBgImg.png": "/tundraweb/static/media/MainBgImg.d82ab3c1027547dcf6bf.png",
+    "static/media/DevelopFieldImg.png": "/tundraweb/static/media/DevelopFieldImg.a861e8914e629482842c.png",
+    "static/media/PortfolioImg.png": "/tundraweb/static/media/PortfolioImg.b9ea745fba994d2fee57.png",
+    "static/media/MobileImg.png": "/tundraweb/static/media/MobileImg.19efad232fb4dfa693b3.png",
+    "static/media/MainPhoneImg.png": "/tundraweb/static/media/MainPhoneImg.309f50f7c13a7a99cd61.png",
+    "static/media/BottomLogo.png": "/tundraweb/static/media/BottomLogo.043fc280f2369762f97c.png",
+    "static/media/logo.svg": "/tundraweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tundraweb/index.html",
+    "main.7f4d40ce.css.map": "/tundraweb/static/css/main.7f4d40ce.css.map",
+    "main.c3ad32ca.js.map": "/tundraweb/static/js/main.c3ad32ca.js.map",
+    "787.a110ec77.chunk.js.map": "/tundraweb/static/js/787.a110ec77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4d40ce.css",
+    "static/js/main.c3ad32ca.js"
+  ]
+}
